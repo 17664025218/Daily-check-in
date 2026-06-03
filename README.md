@@ -2,7 +2,7 @@
 
 **智卡**是一款轻量、智能的日常打卡与习惯养成小程序。帮助用户设定目标、追踪进度，通过极简的交互体验，让坚持变得更简单。
 
-![小程序入口二维码](D:\桌面\截图20260603143855.png)<img width="977" height="880" alt="截图20260603143855" src="https://github.com/user-attachments/assets/7546dc0e-0419-4636-bc6e-d7572dd6f653" />
+<img width="143" height="133" alt="截图20260603143855" src="https://github.com/user-attachments/assets/7546dc0e-0419-4636-bc6e-d7572dd6f653" />
 
 > 👆 扫描上方小程序码，立即体验“智卡”
 
@@ -16,9 +16,11 @@
 
 
 ## 📸 界面预览
+<img width="108" height="227" alt="界面1" src="https://github.com/user-attachments/assets/47995124-26c8-482f-afbe-d4b716e009e0" />
+<img width="108" height="227" alt="微信图片_2026-06-03_144457_451" src="https://github.com/user-attachments/assets/711757e9-bbcb-4bb9-a04d-085d675a29f6" />
+<img width="108" height="227" alt="截图20260603144541" src="https://github.com/user-attachments/assets/2316cf63-a9f6-4139-9c63-66d7b6b4a3d7" />
+<img width="108" height="227" alt="微信图片_2026-06-03_144619_526" src="https://github.com/user-attachments/assets/092d0286-3e32-40d8-8a35-a3ca8f4889b0" />
 
-*(提示：建议在这里放 2-3 张小程序的核心界面截图，如首页、打卡详情页、统计页，格式如下：)*
----
 
 ## 🛠 技术架构
 
