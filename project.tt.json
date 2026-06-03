@@ -1,0 +1,16 @@
+{
+  "miniprogramRoot": "./dist-tt",
+  "projectname": "每日打卡",
+  "description": "每日习惯打卡工具，帮助用户养成好习惯。",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "packOptions": { "ignore": [{ "type": "folder", "value": "./assets" }] }
+}
